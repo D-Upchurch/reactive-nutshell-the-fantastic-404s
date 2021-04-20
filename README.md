@@ -35,7 +35,7 @@ This group project's focus was to learn how to build a website with React. We we
 1. Run `npm install` from the root directory and wait for all dependencies to be installed.
 1. Run `npm start` to verify that installation was successful.
 
-## Mock data
+## Mock Data
 
 ```{
   "users": [
