@@ -22,11 +22,11 @@ This group project's focus was to learn how to build a website with React. We we
 
 <img width="1221" alt="Screen Shot 2021-04-19 at 4 47 03 PM" src="https://user-images.githubusercontent.com/78938657/115434345-97653e00-a1d6-11eb-9c7d-0625e8ab2887.png">
 
-## Homepage view
+## Homepage View
 
 ![Screen Shot 2021-04-20 at 12 49 07 PM](https://user-images.githubusercontent.com/78938657/115434603-e27f5100-a1d6-11eb-9293-584395263a1c.png)
 
-## Setup: Follow these steps exactly
+## Setup: Follow These Steps Exactly
 
 1. Clone this repository
 1. `cd` into the directory it creates
